@@ -1,5 +1,6 @@
 # O que é Business Intelligence?
-    # -> •	BI é um conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis para a tomada de decisão empresarial. BI permite aos usuários analisar dados de diferentes fontes, criar relatórios e visualizações e monitorar indicadores-chave de desempenho (KPIs) para ajudar a identificar tendências e oportunidades. As ferramentas de BI incluem relatórios, dashboards, mineração de dados, análise estatística e até Inteligência Artificial
+    # -> BI é um conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis para a tomada de decisão empresarial. BI permite aos usuários analisar dados de diferentes fontes, criar relatórios e visualizações e monitorar indicadores-chave de desempenho (KPIs) para ajudar a identificar tendências e oportunidades. As ferramentas de BI incluem relatórios, dashboards, mineração de dados, análise estatística e até Inteligência Artificial
+    # -> BI NÃO É ferramenta, é um CONCEITO
 
 # Principais casos de aplicação de BI
     # -> Finanças
@@ -53,6 +54,29 @@
         # permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e dashboards interativos e compartilhar insights com outros usuários
     # -> Power Virtual Agents
         # permite aos usuários criar chatbots personalizados sem necessidade de programação, usando modelos e componentes pré-construídos ou personalizados
+
+# O que é modelagem de dados?
+    # -> o processo de criar uma representação visual, ou esquema, que define os sistemas de coleta e gerenciamento de informações de qualquer organização
+    # -> "Primeiro organiza os dados e depois manipula e mostra visualmente"
+    # -> descreve quais dados a empresa coleta, a relação entre diferentes conjuntos de dados e os métodos que serão utilizados para armazenar e analisar esses dados
+    # -> conjunto de técnicas para manipular dados = blueprint
+    # -> processo de criação de um modelo conceitual, lógico e físico de dados
+        # -> modelo conceitual: define os conceitos e as relações entre os dados (ex.: MER SQL)
+        # -> modelo lógico: especifica como os dados serão armazenados e como as relações serão representadas em um banco de dados (código SQL DDL - Data Definition Language)
+        # -> modelo físico: descreve como os dados serão armazenados em um sistema de armazenamento específico (código SQL DDL - Data Definition Language)
+    # -> o Power BI simplifica de forma significativa esse processo criando um modelo de dados básico, mas eficiente e que pode ser usado para analisar os dados de forma correta. Também evita que erros de relacionamentos ocorram se os dados não estiverem organizados corretamente. Também ele não criará os relacionamentos entre os dados se os dados não estiverem corretamente conectados. Mas ele permite criar dashboards e gráficos assim mesmo
+    # -> Power BI NÃO É uma ferramenta de modelagem de dados, e sim um facilitador de visualização de dados
+
+# Como aplicamos modelagem de dados em BI?
+    # -> BI analisa o passado, compreendendo métricas, indicadores, padrões e relacionamentos. O objetivo maior é a análise descritiva do que já aconteceu. "BI olha para o passado"
+    # -> Data Science tem foco maior em análise preditiva, a fim de compreender o que pode acontecer, com base no que já aconteceu (BI)
+    # -> A modelagem de dados em BI ajuda a garantir que os dados sejam armazenados de forma organizada e consistente, o que facilita a recuperação e análise dos dados. Algumas das maneiras como a modelagem de dados pode ser usada em BI incluem:
+        # -> Criação de um Data Warehouse (DW): a modelagem de dados é usada para criar um DW (vem antes), que é um repositório centralizado de dados de negócios que é usado para suportar a análise e tomada de decisão
+        # -> Design de Cubos Multidimensionais: a modelagem de dados é usada para projetar cubos multidimensionais, que são estruturas de dados que ajudam a agregar e analisar dados de várias fontes
+        # -> Criação de Modelos Estrela (Star Schema): a modelagem de dados é uma técnica comumente usada para projetar DWs, que ajuda a garantir a consistência e a facilidade de acesso aos dados
+        # -> Otimização de Consultas: a modelagem de dados também é usada para otimizar consultas a um DW, garantindo que as consultas sejam executadas de forma eficiente
+        # -> Integração de Dados: a modelagem de dados é usada para integrar dados de várias fontes, garantindo a consistência e a qualidade dos dados
+        # -> Governança de Dados: a modelagem de dados é importante para garantir a qualidade dos dados e para implementar medidas de governança de dados, como rastreamento de alterações e auditoria
 
 # Bibliografia
     # -> Documentação do Power BI: https://learn.microsoft.com/pt-br/power-bi/
