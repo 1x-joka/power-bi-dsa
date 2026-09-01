@@ -78,6 +78,19 @@
         # -> Integração de Dados: a modelagem de dados é usada para integrar dados de várias fontes, garantindo a consistência e a qualidade dos dados
         # -> Governança de Dados: a modelagem de dados é importante para garantir a qualidade dos dados e para implementar medidas de governança de dados, como rastreamento de alterações e auditoria
 
+# Quais são os benefícios da modelagem de dados do Power BI?
+    # -> Importação de Dados: o Power BI permite importar dados de uma variedade de fontes, como banco de dados, arquivos e serviços na nuvem. A modelagem de dados é usada para preparar os dados importados, garantindo que eles estejam em um formato consistente e estruturado para análise
+    # -> Criação de Tabelas e Relações: A modelagem de dados é usada para criar tabelas e estabelecer relações entre elas, garantindo que os dados estejam organizados de forma lógica e coerente
+    # -> Medidas e Cálculos: O Power BI permite criar medidas e cálculos personalizados como somas, médias e percentuais. A modelagem de dados é usada para garantir que esses cálculos sejam aplicados de forma consistente e correta
+    # -> Filtros e Segmentação: A modelagem de dados é usada para criar filtros e segmentações para os relatórios, permitindo que os usuários explorem os dados de forma mais precisa e detalhada
+    # -> Publicação de Relatórios e Dashboards: o Power BI permite publicar relatórios e dashboards baseados na modelagem de dados, para que os usuários possam acessá-los e explorá-los facilmente
+    
+# Dicas:
+    # -> sempre verifique o modelo de dados no Power BI quando estiver usando mais de uma fonte de dados
+    # -> compreenda o que são os relacionamentos de negócio (por exemplo: cada produto pode estar associado a mais de uma venda) e estabeleça o relacionamento no Power BI (o Power BI tentará fazer isso de forma automática)
+    # -> observe os relacionamentos entre os dados e considere desmembrar uma única planilha ou tabela em diferentes partes para construir o relacionamento adequado
+    # -> faça os ajustes e correções nos dados para estabelecer os relacionamentos
+
 # Bibliografia
     # -> Documentação do Power BI: https://learn.microsoft.com/pt-br/power-bi/
     # -> Power BI Avançado Para Análise de Dados com DAX: https://www.datascienceacademy.com.br/course/power-bi-avancado-para-analise-de-dados-com-dax
