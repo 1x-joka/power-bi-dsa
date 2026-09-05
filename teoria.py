@@ -91,6 +91,16 @@
     # -> observe os relacionamentos entre os dados e considere desmembrar uma única planilha ou tabela em diferentes partes para construir o relacionamento adequado
     # -> faça os ajustes e correções nos dados para estabelecer os relacionamentos
 
+# Marketing
+    # -> o  processo  de  planejar  e  executar  a  concepção,  preço,  promoção  e distribuição de ideias, bens e serviços para criar trocas que satisfaçam objetivos individuais e organizacionais. É uma das funções mais importantes em uma empresa e é responsável por atrair e  manter  clientes.  Ele  envolve  pesquisa  de  mercado,  análise  de  concorrência,  definição  de estratégias e planejamento de campanhas publicitárias
+ 
+# O marketing é crucial para as empresas por vários motivos. Alguns deles incluem:
+    # -> Atrair  novos  clientes:  O  marketing  ajuda  as  empresas  a  encontrar  novos  clientes potenciais atravésde campanhas publicitárias e estratégias de captação.
+    # -> Aumentar as vendas: O marketing ajuda as empresas a aumentar suas vendas ao criar campanhas publicitárias e promoções atraentes que estimulam os clientes a comprar.
+    # -> Criar conscientização da marca: Omarketing ajuda as empresas a construir amarca e aumentar a conscientização dela entre o público-alvo.
+    # -> Manter os clientes existentes: O marketing também ajuda as empresas a manter seus clientes existentes através de estratégias de fidelização e retenção do cliente.
+    # -> Entender  o  mercado:  O  marketing  também  ajuda  as  empresas  a  entender  as necessidades e desejos de seus clientes, bem como as tendências do mercado, o que é crucial para a sobrevivência e crescimento a longo prazo
+
 # Bibliografia
     # -> Documentação do Power BI: https://learn.microsoft.com/pt-br/power-bi/
     # -> Power BI Avançado Para Análise de Dados com DAX: https://www.datascienceacademy.com.br/course/power-bi-avancado-para-analise-de-dados-com-dax
