@@ -101,6 +101,18 @@
     # -> Manter os clientes existentes: O marketing também ajuda as empresas a manter seus clientes existentes através de estratégias de fidelização e retenção do cliente.
     # -> Entender  o  mercado:  O  marketing  também  ajuda  as  empresas  a  entender  as necessidades e desejos de seus clientes, bem como as tendências do mercado, o que é crucial para a sobrevivência e crescimento a longo prazo
 
+# Alguns principais indicadores de Marketing diferentes que as empresas podem usar para medir o sucesso de suas estratégias e campanhas:
+    # -> Taxa de conversão: A proporção de visitantes do site que realizam uma ação desejada, como comprar um produto ou preencher um formulário de contato.
+    # -> Taxa  de  retenção  do  cliente: A proporção de clientes que compram de uma empresa novamente.
+    # -> Custo por aquisição de cliente (CAC):O custo total de adquirir um novo cliente, incluindo despesas com publicidade e marketing.
+    # -> Retorno sobre investimento (ROI): O lucro ou prejuízo obtido em relação ao investimento feito em uma campanha de marketing.
+    # -> Conscientização da marca: A medida da familiaridade e reconhecimento da marca entre o público-alvo.
+    # -> Engajamento: A medida da interação dos usuários com conteúdo, campanhas e canais de marketing.
+    # -> Net  Promoter  Score  (NPS): Uma  medida  da  lealdade  dos  clientes,  baseada  em  sua disposição para recomendar uma empresa ou produto para outras pessoas.
+    # Tráfego do website: Número de visitas no website.
+
+    # Esses  indicadores  devem  ser  monitorados  regularmente  para  ajudar  as  empresas  a entender  o  sucesso  de  suas  estratégias  e  campanhas  de  marketing  e  fazer  ajustes  onde necessário
+
 # Bibliografia
     # -> Documentação do Power BI: https://learn.microsoft.com/pt-br/power-bi/
     # -> Power BI Avançado Para Análise de Dados com DAX: https://www.datascienceacademy.com.br/course/power-bi-avancado-para-analise-de-dados-com-dax
