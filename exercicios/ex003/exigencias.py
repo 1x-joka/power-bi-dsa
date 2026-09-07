@@ -4,4 +4,4 @@
 
 # 3° Visão - 3° Dashboard: Visão da Performance das Campanhas de Marketing
 
-# 4° Visão - 4° Dashboard: Visão dos Padrões de Compra no Ponto de Venda (País4
+# 4° Visão - 4° Dashboard: Visão dos Padrões de Compra no Ponto de Venda
