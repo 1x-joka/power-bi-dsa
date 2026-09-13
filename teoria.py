@@ -19,7 +19,7 @@
     # -> A capacidade de processar grandes quantidades de dados é uma das principais vantagens do Big Data, pois permite coletar e armazenar dados de muitas fontes diferentes, incluindo transações de negócios, dados de redes sociais, registros de sensores e outros tipos de dados não estruturados. BI usa esses dados para criar insights e entender tendências que podem ser usadas para melhorar a eficiência e rentabilidade dos negócios
 
 # O que é Data Science?
-    # -> •	Um campo interdisciplinar que combina matemática, estatística e computação para extrair conhecimento e insights úteis a partir de grandes conjuntos de dados
+    # -> Um campo interdisciplinar que combina matemática, estatística e computação para extrair conhecimento e insights úteis a partir de grandes conjuntos de dados
     # -> Os profissionais de Data Science usam técnicas de análise estatística, mineração de dados, aprendizado de máquina e Inteligência Artificial para explorar e entender os dados, criar modelos para prever resultados e comunicar os insights obtidos para ajudar na tomada de decisão. Data Science é amplamente utilizada em vários setores, como finanças, saúde, marketing, varejo e tecnologia
 
 # Principais casos de aplicação de Data Science
@@ -54,6 +54,10 @@
         # permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e dashboards interativos e compartilhar insights com outros usuários
     # -> Power Virtual Agents
         # permite aos usuários criar chatbots personalizados sem necessidade de programação, usando modelos e componentes pré-construídos ou personalizados
+
+# ================================
+# ====== MODELAGEM DE DADOS ======
+# ================================
 
 # O que é modelagem de dados?
     # -> o processo de criar uma representação visual, ou esquema, que define os sistemas de coleta e gerenciamento de informações de qualquer organização
@@ -91,7 +95,11 @@
     # -> observe os relacionamentos entre os dados e considere desmembrar uma única planilha ou tabela em diferentes partes para construir o relacionamento adequado
     # -> faça os ajustes e correções nos dados para estabelecer os relacionamentos
 
-# Marketing
+# =================================
+# ========= MARKETING =========
+# =================================
+
+# O que é Marketing
     # -> o  processo  de  planejar  e  executar  a  concepção,  preço,  promoção  e distribuição de ideias, bens e serviços para criar trocas que satisfaçam objetivos individuais e organizacionais. É uma das funções mais importantes em uma empresa e é responsável por atrair e  manter  clientes.  Ele  envolve  pesquisa  de  mercado,  análise  de  concorrência,  definição  de estratégias e planejamento de campanhas publicitárias
  
 # O marketing é crucial para as empresas por vários motivos. Alguns deles incluem:
@@ -112,6 +120,25 @@
     # Tráfego do website: Número de visitas no website.
 
     # Esses  indicadores  devem  ser  monitorados  regularmente  para  ajudar  as  empresas  a entender  o  sucesso  de  suas  estratégias  e  campanhas  de  marketing  e  fazer  ajustes  onde necessário
+
+# ================================
+# ======= DADOS COMERCIAIS =======
+# ================================
+
+# O que representa a Área Comercial para uma Empresa?
+    # A área comercial de uma empresa é responsável por garantir a venda de produtos ou serviços da empresae por conseguir novos clientes
+    # É  o  departamento  responsável  por  estabelecer  as  estratégias  de  vendas,  realizar negociações, fechar contratos e acompanhar o desempenho das vendas
+    # A área comercial é fundamental para o sucesso de uma empresa, pois é através das vendas que ela obtém receita e se mantém no mercado. Além disso, a área comercial também é responsável pela gestão da relação com os clientes, desdea prospecção até a pós-venda
+# Quais são os principais KPIs da Área Comercial?
+    # São indicadores que medem o desempenho e a eficiência das atividades de vendas. Alguns dos KPIs mais comuns incluem:
+        # Volume de vendas: quantidade de produtos ou serviços vendidos.•Ticket médio: valor médio das vendas por transação.
+        # Taxa  de  conversão:  proporção  de  visitantes  do  site  ou  contatos  que  se  tornam clientes.
+        # Ciclo  de  vendas: tempo médio que leva para fechar uma venda, desde o primeiro contato com o cliente até o fechamento.•Retenção  de  clientes:  taxa  de  clientes  que  compram  novamente  após  a  primeira compra.
+        # Lucratividade: receita líquida obtida pela venda de produtos ou serviços, descontados os custos.
+        # Produtividade da equipe de vendas: quantidade de vendas realizadas por vendedor por período.
+        # Satisfação do cliente: medida da satisfação dos clientes com a empresa, produtos e serviços oferecidos.
+
+        # Estes KPIs ajudam a identificar pontos fortes e fracos na estratégia de vendas da empresa, e permitem tomar decisões mais informadas para melhorar o desempenho da área comercial
 
 # Bibliografia
     # -> Documentação do Power BI: https://learn.microsoft.com/pt-br/power-bi/
