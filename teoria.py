@@ -140,6 +140,31 @@
 
         # Estes KPIs ajudam a identificar pontos fortes e fracos na estratégia de vendas da empresa, e permitem tomar decisões mais informadas para melhorar o desempenho da área comercial
 
+# ================================
+# ======= RECURSOS HUMANOS =======
+# ================================
+
+# Qual a Função da Área de Recursos Humanos?
+    # -> A área de Recursos Humanos (RH) tem como função principal gerenciar e administrar as atividades relacionadas ao pessoal de uma empresa, a fim de promover o desenvolvimento e a satisfação dos funcionários e, consequentemente, contribuir para o sucesso da organização
+
+# Algumaas responsabilidades
+    # -> Recrutamento e seleção: publicar vagas, conduzir entrevistas, aplicar testes e avaliar candidatos para preencher vagas na empresa.
+    # -> Treinamento e desenvolvimento: identificar as necessidades de treinamento dos funcionários, planejar e implementar programas de treinamento para melhorar habilidades e desenvolvimento profissional.
+    # -> Remuneração e benefícios: determinar salários competitivos e administrar programas de benefícios, como seguro saúde e férias remuneradas.
+    # -> Gestão de conflitos: ajudar a resolver disputas entre funcionários ou entre funcionários e gestores, a fim de manter um ambiente de trabalho saudável e produtivo.
+    # -> Políticas e práticas de RH: desenvolver e implementar políticas e práticas de RH, como políticas de igualdade de oportunidades, diversidade e inclusão, e garantir que sejam aplicadas de maneira consistente.
+    # -> Avaliação do desempenho: avaliar regularmente o desempenho dos funcionários, fornecer feedback e ajudar a definir metas e objetivos de desenvolvimento profissional.
+
+# Principais KPIs
+    # -> Taxa de rotatividade: mede a frequência com que os funcionários estão deixando a empresa, o que pode indicar problemas com o ambiente de trabalho, remuneração ou oportunidades de desenvolvimento
+    # -> Satisfação do funcionário: mede o grau de satisfação dos funcionários com relação ao trabalho, remuneração, ambiente de trabalho e oportunidades de desenvolvimento.
+    # -> Tempo médio para preenchimento de vagas: mede o tempo necessário para preencher uma vaga aberta, o que pode indicar a eficiência do processo de recrutamento e seleção
+    # -> Custo de contratação por funcionário: mede o custo total de contratar um novo funcionário, incluindo gastos com anúncios de vagas, entrevistas, testes e treinamento
+    # -> Participação em treinamentos: mede o número de funcionários que participam de programas de treinamento e desenvolvimento, o que pode indicar o interesse dos funcionários em melhorar suas habilidades e desenvolver suas carreiras
+    # -> Avaliação de desempenho: mede a avaliação do funcionário em um ciclo de trabalho, normalmente 6 meses ou 12 meses
+    # -> Nível de absenteísmo: mede a frequência com que os funcionários faltam ao trabalho, o que pode indicar problemas com o ambiente de trabalho ou saúde dos funcionários
+    # -> Nível de engajamento: escala que define quão engajados os funcionários estão, normalmente medida com base no nível de absenteísmo, pontualidade, avaliação de desempenho, etc.
+
 # Bibliografia
     # -> Documentação do Power BI: https://learn.microsoft.com/pt-br/power-bi/
     # -> Power BI Avançado Para Análise de Dados com DAX: https://www.datascienceacademy.com.br/course/power-bi-avancado-para-analise-de-dados-com-dax
